@@ -1,4 +1,3 @@
-
 import nmap
 
 def port_scanner(ports):
